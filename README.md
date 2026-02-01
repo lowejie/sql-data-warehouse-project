@@ -89,7 +89,7 @@ data-warehouse-project/
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 🌟 References
-This project is ref
+This project is inspired by a Youtube video on SQL Full Course using SQL Server.
 
 SQL Full Course for Beginners (30 Hours) – From Zero to Hero by Data with Baraa
 Youtube Link: https://www.youtube.com/watch?v=SSKVgrwhzus
